@@ -1,0 +1,18 @@
+SITE INSTITUCIONAL — 65.786.877 Dayane Cristina Felipe Gouveia
+
+Arquivos:
+- index.html: página inicial
+- sobre.html: informações institucionais
+- politica-privacidade.html: política de privacidade
+- termos-de-uso.html: termos de uso
+- style.css: estilos personalizados
+- assets/: imagens fornecidas
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Mantenha os arquivos HTML, o CSS e a pasta assets juntos.
+3. Abra index.html no navegador.
+
+O site usa Bootstrap 5.3.3 e Bootstrap Icons via CDN; para carregar esses recursos, é necessária conexão com a internet.
+Antes de publicar, confirme os dados empresariais e revise a política de privacidade, especialmente se instalar Google Analytics, tags de conversão do Google Ads, cookies, formulários ou outros rastreadores.
+As fotografias foram incluídas como imagens ilustrativas; confirme os direitos de uso e se representam o estabelecimento real.
